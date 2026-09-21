@@ -1,0 +1,14 @@
+{
+  "figureId": "brew-chronicler",
+  "codename": "BREW-CHRONICLER-21",
+  "waveId": "2026-09-21-f-kiln",
+  "repo": "DubjamMusic/Coffee-rpg-Tips",
+  "tips": [
+    {"id": "first-pour", "class": "brew", "text": "Log the first 25-minute pour before opening a second ticket."},
+    {"id": "steam-streak", "class": "prestige-loop", "text": "A streak only counts if the same figure ships a new branch name."},
+    {"id": "chair-sip", "class": "encounter", "text": "Chair holds merge. Sip, review, then type merge if the assert passed."}
+  ],
+  "frozen": ["affirmAgent.ts", "challengeAgent.ts"],
+  "bannedTokens": ["planner", "executor", "monitor", "data_agent"],
+  "lever": "S"
+}

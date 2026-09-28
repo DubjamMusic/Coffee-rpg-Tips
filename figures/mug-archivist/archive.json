@@ -1,0 +1,22 @@
+{
+  "figureId": "mug-archivist",
+  "codename": "MUG-ARCHIVIST-28",
+  "waveId": "2026-09-28-m-relay",
+  "repo": "DubjamMusic/Coffee-rpg-Tips",
+  "role": "Relay a live tip shelf without rewriting the Wave F kiln ledger.",
+  "archivedCitations": [
+    {"id": "first-pour", "waveId": "2026-09-21-f-kiln", "figureId": "brew-chronicler"},
+    {"id": "steam-streak", "waveId": "2026-09-21-f-kiln", "figureId": "brew-chronicler"},
+    {"id": "chair-sip", "waveId": "2026-09-21-f-kiln", "figureId": "brew-chronicler"}
+  ],
+  "liveTips": [
+    {"id": "second-cup", "class": "brew", "text": "After the first pour ships, log one review comment before brewing a second figure."},
+    {"id": "relay-streak", "class": "prestige-loop", "text": "A relay wave only counts if the branch name is figure/<id>-<yyyymmdd> and unused last wave."},
+    {"id": "chair-thermos", "class": "encounter", "text": "Chair still holds merge. Archive the assert output, then wait for the typed merge."}
+  ],
+  "offRosterThisWave": ["brew-chronicler", "storm-scout", "dial-wright", "cirrus-steward"],
+  "bannedTokens": ["planner", "executor", "monitor", "data_agent"],
+  "frozen": ["affirmAgent.ts", "challengeAgent.ts"],
+  "mergePolicy": "pr-only",
+  "lever": "S"
+}

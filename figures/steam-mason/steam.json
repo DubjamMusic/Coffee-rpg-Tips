@@ -1,0 +1,11 @@
+{
+  "figure": "steam-mason",
+  "wave": "2026-10-21-q-spectrum",
+  "expectedDensity": 8.112,
+  "nodes": 8.0,
+  "velocity": 8.2,
+  "streak": 7.9,
+  "decision": 8.4,
+  "banned": ["planner", "executor", "monitor", "data_agent", "planner-alpha", "executor-beta"],
+  "gate": "pr-only"
+}

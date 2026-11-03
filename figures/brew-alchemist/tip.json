@@ -1,0 +1,9 @@
+{
+  "figure": "brew-alchemist",
+  "wave": "2026-11-03-q-ember",
+  "tip": "Use a 1:16 ratio at 93C for a clean extraction that keeps Nodes high without jitter.",
+  "nodes": 12,
+  "velocity": 6,
+  "expectedDensity": 7.2,
+  "prOnly": true
+}
